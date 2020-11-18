@@ -1,0 +1,4 @@
+include ':part_guiada'
+include ':part_guiada'
+include ':app'
+rootProject.name = "U3T3MenuOfActivities"

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">U3T3MenuOfActivities</string>
+    <string name="activity_detail">Activity Detail</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_delete_all">Delete All</string>
+    <string name="btn_restore">Restore</string>
+</resources>
